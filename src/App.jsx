@@ -1,4 +1,3 @@
-```jsx
 import React, { useEffect, useMemo, useState } from "react";
 
 // Single-file React app for playing "Bài Tấn" (Vietnamese variant, 8 cards each)
@@ -420,4 +419,3 @@ function CardButton({ card, playerIndex, game, onAttack, onAddAttack, onDefend }
   );
 }
 
-```
